@@ -33,6 +33,7 @@ I have worked on various personal and collaborative projects, including mobile a
 ## 📈 GitHub Stats
 ![Chirag's GitHub stats](https://github-readme-stats-rho-dun-77.vercel.app/api?username=chiragtyagi2003&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats-rho-dun-77.vercel.app/api/top-langs/?username=chiragtyagi2003)
 ## 📫 Get in touch
 
 If you have any questions, or suggestions, or would like to collaborate on a project, feel free to reach out to me. You can connect with me through the following channels:
