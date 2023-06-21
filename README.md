@@ -20,11 +20,11 @@ Apart from programming, I have a keen interest in participating in hackathons an
 
 ## 💼 Work Experience
 
-- Backend Developer at Company XYZ: I worked as a backend developer for mobile development projects, where I was responsible for designing and implementing APIs, managing databases, and ensuring efficient server-client communication.
+- Backend Developer at टू2 Technologies: I worked as a backend developer for mobile development projects, where I was responsible for designing and designing UIs, managing databases, and ensuring efficient server-client communication.
 
-- Backend Developer at Company ABC: In my role as a backend developer, I contributed to the development of mobile applications by building and maintaining server-side logic, implementing security measures, and optimizing performance.
+- Backend Developer at Pregamate: As a backend developer, I contributed to the development of mobile applications by building and maintaining server-side logic, implementing security measures, and optimizing performance.
 
-- Freelance Developer: I have also worked as a freelancer, taking on various mobile app development projects. I collaborated with clients to understand their requirements, developed robust backend solutions, and delivered high-quality mobile applications.
+- Freelance Developer: I have also worked as a freelancer on various mobile app development projects. I collaborated with clients to understand their requirements, developed robust backend solutions, and delivered high-quality mobile applications.
 
 ## 💡 Projects
 
@@ -36,7 +36,7 @@ I have worked on various personal and collaborative projects, including mobile a
 
 ## 📫 Get in touch
 
-If you have any questions, suggestions, or would like to collaborate on a project, feel free to reach out to me. You can connect with me through the following channels:
+If you have any questions, or suggestions, or would like to collaborate on a project, feel free to reach out to me. You can connect with me through the following channels:
 
 - Email: [tyagichirag06@gmail.com](mailto:tyagichirag06@gmail.com)
 - LinkedIn: [Chirag Tyagi](https://www.linkedin.com/in/chirag-tyagi-21154b225/)
