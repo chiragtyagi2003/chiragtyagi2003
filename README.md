@@ -32,7 +32,7 @@ I have worked on various personal and collaborative projects, including mobile a
 
 ## 📈 GitHub Stats
 
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragtyagi2003)](https://github.com/anuraghazra/github-readme-stats)
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragtyagi2003)](https://github.com/chiragtyagi2003/github-readme-stats)
 
 ## 📫 Get in touch
 
