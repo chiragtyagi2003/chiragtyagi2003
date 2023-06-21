@@ -31,7 +31,7 @@ Apart from programming, I have a keen interest in participating in hackathons an
 I have worked on various personal and collaborative projects, including mobile applications, web development, and machine learning projects. You can find some of my highlighted projects in my repositories.
 
 ## 📈 GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiragtyagi2003)](https://github.com/anuraghazra/github-readme-stats)
+[![Chirag's GitHub stats](https://github-readme-stats-rho-dun-77.vercel.app/api?username=chiragtyagi2003)](https://github.com/chiragtyagi2003/github-readme-stats)
 
 ## 📫 Get in touch
 
