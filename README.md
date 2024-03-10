@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chirag, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old software developer proficient in C++, Python, and familiar with HTML and CSS. I specialize in Flutter and Python development, and I'm currently exploring the fascinating field of AI and deep learning.
+I'm Chirag, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old software developer proficient in C++, Python, Golang and familiar with HTML and CSS. I specialize in Flutter and Python development, and I'm currently exploring the fascinating field of AI and deep learning.
 
 ## 🔭 What I'm currently working on
 
@@ -13,10 +13,11 @@ I'm actively involved in learning and applying AI and deep learning techniques t
 - Mobile App Development: Flutter
 - Data Science and Machine Learning: Python libraries (NumPy, Pandas, scikit-learn)
 - Artificial Intelligence: Deep Learning, Neural Networks
+- Microsoft Azure AI Solutions
 
 ## 🌱 Interests
 
-Apart from programming, I have a keen interest in participating in hackathons and collaborating with others to build innovative and meaningful projects. I love to explore the latest advancements in technology and contribute to the open-source community.
+Apart from programming, I have a keen interest in participating in hackathons and collaborating with others to build innovative and meaningful projects. I love to explore the latest technological advancements and contribute to the open-source community.
 
 ## 💼 Work Experience
 
@@ -28,7 +29,7 @@ Apart from programming, I have a keen interest in participating in hackathons an
 
 ## 💡 Projects
 
-I have worked on various personal and collaborative projects, including mobile applications, web development, and machine learning projects. You can find some of my highlighted projects in my repositories.
+I have worked on various personal and collaborative projects, including mobile applications, web development, and machine learning. You can find some of my highlighted projects in my repositories.
 
 ## 📈 GitHub Stats
 ![Chirag's GitHub stats](https://github-readme-stats-rho-dun-77.vercel.app/api?username=chiragtyagi2003&show_icons=true&theme=radical)
