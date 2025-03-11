@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Chirag, a passionate and curious individual always seeking new things and technologies. I'm a 20-year-old software developer proficient in C++, Python, Golang and familiar with HTML and CSS. I specialize in Flutter and Python development, and I'm currently exploring the fascinating field of AI and deep learning.
+I'm Chirag, a passionate and curious individual always seeking new things and technologies. I'm a 22-year-old software developer proficient in C++, Python, Golang and familiar with HTML and CSS. I specialize in Flutter and Python development, and I'm currently exploring the fascinating field of AI and deep learning.
 
 ## 🔭 What I'm currently working on
 
